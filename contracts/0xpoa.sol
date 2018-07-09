@@ -1,11 +1,14 @@
+//Sokol Testnet Contract. Not Final
+
+
 pragma solidity ^0.4.18;
 
 // ----------------------------------------------------------------------------
 // '0xPOA.NETWORK TOKEN' contract
 // Mineable POA20 Token using Proof Of Work
 //
-// Symbol      : 0xPOA
-// Name        : 0xPOA.NETWORK TOKEN
+// Symbol      : 0xPOA2
+// Name        : 0xPOA.NETWORK TEST2 TOKEN
 // Total supply: 50000000 (50 Million)
 // Decimals    : 8
 //
