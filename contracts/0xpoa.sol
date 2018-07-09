@@ -258,7 +258,7 @@ contract _0xPOA2 is ERC20Interface, Owned, EIP918Interface {
         //we want miners to spend 4 minutes to mine each 'block', about 48 poa.network blocks = one 0xPOA epoch
         uint epochsMined = _BLOCKS_PER_READJUSTMENT;
 
-        uint targetEthBlocksPerDiffPeriod = epochsMined * 48; //should be 48 times slower than ethereum
+        uint targetEthBlocksPerDiffPeriod = epochsMined * 48; //should be 48 times slower than poa.network
 
         //if there were less eth blocks passed in time than expected
         if( ethBlocksSinceLastDifficultyPeriod < targetEthBlocksPerDiffPeriod )
