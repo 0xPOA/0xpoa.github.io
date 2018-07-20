@@ -5,7 +5,7 @@
         </p>
       <ul>
         <br><br>   <h2>development<h2>
-       <h3<li>>accept a pure mined token as payment for your ico or crowdsale</li></h3></li>
+       <h3><li>accept a pure mined token as payment for your ico or crowdsale</li></h3></li>
         <li><h3>integrate 0xPOA into your next dApp by accepting it as a base currency</h3></li>
          <li> <h3><b>bounty:</b> create a working <a target="_blank" href="https://github.com/poanetwork/poa-bridge-contracts">bridge to ethereum mainnet</a></h3></li>
       </ul>
